@@ -6,4 +6,4 @@ ur name, picture, and career information will be at the top. it will include ur 
 
 i made a [sample](https://www.github.com/cinnflake/buyResume/blob/main/sample.pdf):
 
-![gn](https://www.github.com/cinnflake/buyResume/blob/main/sample.png)
+![gn](https://github.com/cinnflake/buyResume/blob/main/sample.png)
