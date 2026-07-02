@@ -4,6 +4,6 @@
 
 ur name, picture, and career information will be at the top. it will include ur biography, skills, education, experience, projects, languages, references, and contact details — u can also put ur location, number, email, website, birthdate etc
 
-**i made a [sample](https://www.github.com/cinnflake/buyResume/blob/main/sample.pdf)**
+**i made a [sample](https://www.github.com/cinnflake/buyResume/blob/main/example.pdf)**
 
-![gn](https://github.com/cinnflake/buyResume/blob/main/sample.png)
+![gn](https://github.com/cinnflake/buyResume/blob/main/example.png)
